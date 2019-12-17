@@ -1,0 +1,5 @@
+The "Edge" means local (or near local) processing
+NOT just anywhere in the cloud
+Edge applications are often used where low latency is necessary
+Also used where a network may not always be available
+Can come from a desire for real-time decision making 
