@@ -1,0 +1,9 @@
+In the project at the end of the course, you’ll build and deploy a People Counter App at the Edge. In the project, you will:
+
+Convert a model to an Intermediate Representation (IR)
+Use the IR with the Inference Engine
+Process the output of the model to gather relevant statistics
+Send those statistics to a server, and
+Perform analysis on both the performance and further use cases of your model.
+Project Demo
+Below, you can find a quick video demo of the project running and returning statistics on the number of people in frame, average duration spent in frame, and the total number of people counted so far. This is all sent from an edge application to a web server. Note that there is no audio associated with this application.
