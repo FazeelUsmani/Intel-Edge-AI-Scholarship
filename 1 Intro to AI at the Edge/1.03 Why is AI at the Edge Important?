@@ -2,3 +2,12 @@
 2) Latency considerations
 3) Security concerns
 4) Optimizations for local inference
+
+
+
+Why is AI at the Edge Important?
+
+Network communication can be expensive (bandwidth, power consumption, etc.) and sometimes impossible (think remote locations or during natural disasters)
+Real-time processing is necessary for applications, like self-driving cars, that can't handle latency in making important decisions
+Edge applications could be using personal data (like health data) that could be sensitive if sent to cloud
+Optimization software, especially made for specific hardware, can help achieve great efficiency with edge AI models
