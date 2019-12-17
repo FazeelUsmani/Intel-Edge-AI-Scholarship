@@ -1,0 +1,3 @@
+There are nearly endless possibilities with the edge.
+IoT devices are a big use of the edge.
+Not every single app needs it - you can likely wait a second while your voice app goes to ask the server a question, or such as when NASA engineers are processing the latest black hole data.
