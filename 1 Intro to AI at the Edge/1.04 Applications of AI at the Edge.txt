@@ -1,3 +1,10 @@
 There are nearly endless possibilities with the edge.
 IoT devices are a big use of the edge.
 Not every single app needs it - you can likely wait a second while your voice app goes to ask the server a question, or such as when NASA engineers are processing the latest black hole data.
+
+
+Edge applications:-
+1) Self Driving Cars
+2) regular heartbeats for heart attacks
+3) Robots that are used in surgery
+4) Tracking animals such as Tiger or Lion which have high chances of poaching
