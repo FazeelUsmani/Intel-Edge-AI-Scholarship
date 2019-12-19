@@ -4,3 +4,12 @@ One additional note here on the ResNet architecture - the paper itself actually 
 
 
 
+Further Research
+Getting used to reading research papers is a key skill to build when working with AI and Computer Vision. Below, you can find the original research papers on some of the networks we discussed in this section.
+
+SSD
+YOLO
+Faster RCNN
+MobileNet
+ResNet
+Inception
