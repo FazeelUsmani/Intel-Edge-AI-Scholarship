@@ -1,5 +1,6 @@
 OpenVINO: Open Visual Inferencing and Neural Network Optimization
 
+Intel Distribution of OpenVINO Toolkit is: An open source library useful for edge deployment due to its performance maximizations and pre-trained models
 
 The OpenVINO™ Toolkit’s name comes from “Open Visual Inferencing and Neural Network Optimization”. It is largely focused around optimizing neural network inference, and is open source.
 
