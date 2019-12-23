@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 
+# Using one function 
 def preprocessing(input_image, height, width):
     image = cv2.resize(input_image, (width, height))      # takes w x h
     image = image.transpose((2,0,1))
